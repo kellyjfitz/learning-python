@@ -1,0 +1,2 @@
+# Assume that a retail company awards loyalty points to its customers. The points are calculated based on the total sales (rounded figure) according to the following table.
+# Write a program that asks the user to enter the total sales of a customer and then displays the points earned by that customer.
