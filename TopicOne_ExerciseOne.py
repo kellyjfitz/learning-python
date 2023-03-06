@@ -1,12 +1,12 @@
 def exercise_one ():
     pound_weight = float(input("Enter the weight of an object in pounds: "))
-    kilo_weight = pound_weight * 0.454
+    kilo_weight = pound_weight * 0.454 #doing the conversion
     print("The weight of the object in kilograms is " ,kilo_weight,"kg", sep='')
 exercise_one()
 
 def exercise_two ():
     celsius_temp = int (input("Please enter a temperature in Celsius for conversion: "))
-    fahrenheit_temp = (9/5) * celsius_temp + 32
+    fahrenheit_temp = (9/5) * celsius_temp + 32 #doing the conversion
     print(celsius_temp, " degrees Celsius is ", int(fahrenheit_temp),"F", sep='')
 exercise_two()
 

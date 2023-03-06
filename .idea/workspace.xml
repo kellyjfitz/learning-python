@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d1f548b-c24c-4e5f-ad03-1edab998803a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TopicTwo_ExerciseFour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TopicTwo_ExerciseFive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TopicOne_ExerciseOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/TopicOne_ExerciseOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TopicTwo_ExerciseFour.py" beforeDir="false" afterPath="$PROJECT_DIR$/TopicTwo_ExerciseFour.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TopicTwo_ExerciseThree.py" beforeDir="false" afterPath="$PROJECT_DIR$/TopicTwo_ExerciseThree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TopicTwo_ExerciseTwo.py" beforeDir="false" afterPath="$PROJECT_DIR$/TopicTwo_ExerciseTwo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TopicTwo_Exercise_One.py" beforeDir="false" afterPath="$PROJECT_DIR$/TopicTwo_Exercise_One.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

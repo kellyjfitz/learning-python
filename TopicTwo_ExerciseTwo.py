@@ -11,7 +11,7 @@ def exerciseTwo ():
 
     #dividing the word total by typing speed to get duration in minutes, 
     #then dividing by 60 to get duration in hours 
-    duration = (projectWords / wordsPerMinute) /60.0 
+    duration = (projectWords / wordsPerMinute) /60.0 #dividing by a decimal for more accuracy
     if duration <= 8:
         projectCost = format(rateOne * duration, ".2f")
     else: projectCost = format(rateTwo * duration, ".2f")

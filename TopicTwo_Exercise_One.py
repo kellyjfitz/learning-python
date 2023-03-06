@@ -7,7 +7,7 @@ def exerciseOne ():
     elif user_number == 0: print ("Zero")
     else: print("Negative")
     if user_number % 2 == 0:
-        print ("Even")
-    else: print ("Odd")
+        print("Even")
+    else: print("Odd")
 
 exerciseOne()
